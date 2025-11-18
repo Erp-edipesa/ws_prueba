@@ -1,0 +1,6 @@
+Save Format v3.0(19990112)
+@begin Targets
+ 0 "app_prueba.pbt";
+@end;
+DefaultTarget "app_prueba.pbt";
+DefaultRemoteTarget "app_prueba.pbt";
