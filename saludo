@@ -1,0 +1,3 @@
+string ls_nombre
+ls_nombre = sle_nombre.Text  
+MessageBox("Saludo", "Hola " + ls_nombre + ", ¡carlitos se la come!")
